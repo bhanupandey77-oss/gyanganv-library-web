@@ -1,0 +1,19 @@
+{
+  "name": "ज्ञानगाँव लाइब्रेरी",
+  "short_name": "ज्ञानगाँव",
+  "description": "ज्ञानगाँव लाइब्रेरी, कमेला — फीस, रसीद अपलोड और सूचनाएँ",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fa",
+  "theme_color": "#1d5fae",
+  "lang": "hi",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
